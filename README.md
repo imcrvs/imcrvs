@@ -1,7 +1,7 @@
 # Oi, eu sou o Marcos! 👋
 
 ## Sobre mim:
-- 👨‍💻 Analista de TI Pleno e Desenvolvedor Python
+- 👨‍💻 Consultor e Analista de TI Pleno e Desenvolvedor Python
 - 🎮 No meu tempo livre, gosto de jogar ou escutar música
 - 💻 Entusiasta de tecnologia
 
